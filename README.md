@@ -1,2 +1,2 @@
-# asteroids
-Asteroid game on android
+# Asteroids
+Asteroids game on android
